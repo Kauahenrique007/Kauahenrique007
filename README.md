@@ -1,16 +1,82 @@
-## Hi there 👋
+## 👋 Kauã Henrique
 
-<!--
-**Kauahenrique007/Kauahenrique007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer focused on building scalable systems and real-world solutions  
+🌎 Desenvolvedor focado em soluções reais, dados e sistemas inteligentes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me | Sobre Mim
+
+🇺🇸  
+- Currently developing **HidroRec**, a smart urban monitoring platform  
+- Focused on **data-driven systems and real-time applications**  
+- Experience with frontend, APIs and system integration  
+- Passionate about solving real-world problems through technology  
+
+🇧🇷  
+- Desenvolvendo o **HidroRec**, plataforma de monitoramento urbano inteligente  
+- Foco em sistemas orientados a dados e aplicações em tempo real  
+- Experiência com frontend, APIs e integração de sistemas  
+- Interesse em resolver problemas reais com tecnologia  
+
+---
+
+## 🧠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=c-sharp)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+## 🌎 Focus Areas | Áreas de Interesse
+
+- Smart Cities  
+- Data-driven systems  
+- Scalable architectures  
+- Sistemas inteligentes aplicados  
+
+---
+
+## 📌 Featured Project | Projeto em Destaque
+
+### 🛰️ HidroRec
+
+🇺🇸  
+Urban monitoring platform focused on flood risk analysis and decision support  
+- Real-time data integration  
+- Risk classification engine  
+- Operational dashboard  
+
+🇧🇷  
+Plataforma de monitoramento urbano voltada à análise de risco de alagamentos  
+- Integração de dados em tempo real  
+- Classificação de risco  
+- Dashboard operacional  
+
+---
+
+## 📊 GitHub Stats
+
+![Kaua GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauahenrique007&show_icons=true&theme=github_dark)
+
+---
+
+## 📫 Contact
+
+📧 Email: Henriqueksus7@gmail.com  
+🔗 LinkedIn :
+https://www.linkedin.com/in/kauã-henrique-6a370727b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+## ⚡ Fun Fact
+
+🇧🇷  
+
+Quebrando código desde sempre — às vezes sem querer, mas sempre aprendendo  
+
+🇺🇸  
+Breaking code since day one — sometimes on purpose, always learning 🚀
